@@ -1,2 +1,2 @@
-# HTML-Menu-Bar-Project
-This project is a minimalist menu bar created solely using HTML. The menu bar offers a straightforward navigation system suitable for various web applications or websites. It's designed to be lightweight, easy to implement, and highly customizable to fit different design needs.
+# Menu-Bar-Project
+This project is a simple menu bar created using HTML and CSS. The menu bar provides a clean and intuitive navigation system for web applications or websites. It is designed to be easily customizable and can be integrated into various projects with minimal effort.
